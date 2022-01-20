@@ -4,3 +4,4 @@
 
 TinyML model running Wio Terminal can identify if animal or human is approaching even in the dark, sends data to Helium LoRa network to AWS.
 
+Full project on hackster https://www.hackster.io/mithun-das/ai-thermal-camera-for-safe-camping-seeed-helium-aws-v2-c0d28b
